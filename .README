@@ -1,0 +1,6 @@
+To install the discord dependency-
+npm init -y
+npm install discord.js dotenv
+
+
+https://discord.com/api/oauth2/authorize?client_id=application_id&permissions=discord_permissions_number&scope=bot%20identify%20messages.read
